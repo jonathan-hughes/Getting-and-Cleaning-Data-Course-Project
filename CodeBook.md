@@ -1,4 +1,4 @@
-# CodeBook.md
+# Getting and Cleaning Data Course Project CodeBook
 
 ## Description
 
